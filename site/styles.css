@@ -1,0 +1,119 @@
+/* BODY TAGS */
+
+
+h1{
+	color: black;
+}
+h3{
+
+}
+body{
+
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+/* ID TAGS */
+
+#header-nav {
+	background-color: white;
+}
+
+#main-content{
+	width:92%
+	margin-bottom: 30px;
+
+}
+#heading{
+	background-color: white;
+	color: #008080;
+	text-shadow: 1px 1px 1px;
+    font-weight: bolder;
+    font-size: 1.8em;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+#services{
+	background-color: white;
+	color: #7d1913;
+	text-shadow: 1px 1px 1px;
+    font-size: 1.2em;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+#Excellence{
+	text-align: center;
+	margin-top: 1%;
+	padding: 2% 15%;
+	background-color: pink;
+}
+#footer{
+  text-align: center;
+	background-color: pink;
+	margin-bottom: 0;
+}
+#features{
+	text-align: center;
+	margin-top: 2%;
+
+}
+
+
+/* CLASS TAGS */
+
+.pull-left{
+	position:relative;
+	left: 5%;
+	padding: 0 5px;
+	font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.navbar-brand{
+    color: blue;
+    text-shadow: 1px 1px 1px;
+    font-weight: bolder;
+    font-size: 1.8em;
+}
+.content{
+	position: relative;
+	left: 20%;
+	margin: auto;
+}
+.nav-item{
+	padding: 0 12px;
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.row{
+	float: inherit;
+	margin: auto;
+	padding: 0;
+}
+.container{
+	padding: 1% 1% 2% 3%;
+}
+.fab-last{
+  margin: 2% 2% 2% 0;
+}
+
+.icon:hover{
+	color: #ff4c68;
+}
+
+.index-h3{
+	padding-top: 2%;
+}
+
+
+/* FORM TAGS */
+.form{
+	margin: 5% 3% 2% 3%;
+}
+.form-bt{
+	text-align:center;
+}
+.p-contact{
+	font-size: 20px;
+}
